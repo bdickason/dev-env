@@ -1,0 +1,20 @@
+{
+  "name": "dev-env",
+  "description": "Global packages for dev env single-line install",
+  "homepage": "https://github.com/bdickason/dev-env",
+  "keywords": [
+    "automation"
+  ],
+  "version": "0.0.1",
+  "author": "Brad Dickason <dickason@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bdickason/dev-env.git"
+  },
+  "dependencies": {
+    "mocha": "*",
+    "coffee-script": "*",
+    "node-dev": "*"
+    }
+}
