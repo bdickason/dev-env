@@ -15,6 +15,7 @@
   "dependencies": {
     "mocha": "*",
     "coffee-script": "*",
-    "node-dev": "*"
+    "node-dev": "*",
+    "component": "*"
     }
 }
